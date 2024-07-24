@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my skills in DSA  
   
 
-- 🌱 I’m currently learning MERN and AI/ML.  
+- 🌱 I’m currently learning MERN.  
   
 
 - I love reading Novels 📖 and playing online games🎮.  
