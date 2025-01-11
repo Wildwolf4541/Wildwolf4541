@@ -1,7 +1,7 @@
 ### <div align="center">Hey 👋, I'm Akhil Gupta.</div>  
   
 
-- 🔭 I’m currently working on my skills in DSA  
+- 🔭 I’m currently working on my problem solving skills. 
   
 
 - 🌱 I’m currently learning MERN.  
