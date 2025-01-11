@@ -2,7 +2,8 @@
   <h1>Hey 👋, I'm Akhil Gupta.</h1>
   <h3>Electronics and Computer (ENC) student at Thapar University (TIET,Patiala)</h3></div>  
 <br/>  
-# 💫 About Me:<br>
+# 💫 **About Me:**
+<br>
 - 🔭 I’m currently working on my problem solving skills. <br>  <br><br>- 🌱 I’m currently learning MERN.  <br>  <br><br>- I love reading Novels 📖 and playing online games🎮.  <br>  
 
 
